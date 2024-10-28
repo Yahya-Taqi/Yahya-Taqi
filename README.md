@@ -1,13 +1,12 @@
 - 👋 Hi
+## Operating System
+Arch btw
 ## Software:
     - Unity
     - Unreal
 ## Languages:
     - C++
     - C#
-## Frameworks and Libraries:
-    - Wxwidgets
-    - Electron
 ## Database:
     - MySql
 <!---
